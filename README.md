@@ -1,1 +1,1 @@
-"# lotteryContract" 
+# lotteryContract
